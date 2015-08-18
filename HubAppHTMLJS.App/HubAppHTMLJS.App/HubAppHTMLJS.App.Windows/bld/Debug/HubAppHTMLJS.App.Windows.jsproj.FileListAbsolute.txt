@@ -1,0 +1,15 @@
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bin\Debug\ReverseMap\resources.pri
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bin\Debug\AppxManifest.xml
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bin\Debug\HubAppHTMLJS.App.Windows.build.appxrecipe
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\priconfig.xml
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\priconfig.xml.intermediate
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\layout.resfiles
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\layout.resfiles.intermediate
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\resources.resfiles
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\resources.resfiles.intermediate
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\pri.resfiles
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\pri.resfiles.intermediate
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\qualifiers.txt
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\qualifiers.txt.intermediate
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubAppHTMLJS.App\HubAppHTMLJS.App\HubAppHTMLJS.App.Windows\bld\Debug\ProjectArchitectures.txt

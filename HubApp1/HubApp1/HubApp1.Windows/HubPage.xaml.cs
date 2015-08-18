@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Runtime.InteropServices.WindowsRuntime;
 using System.Threading;
 using Windows.Foundation;
@@ -30,6 +31,7 @@ namespace HubApp1
         private NavigationHelper navigationHelper;
         private ObservableDictionary defaultViewModel = new ObservableDictionary();
         IHubProxy chat;
+        Subscription subscriptio = new Subscription();
         public SynchronizationContext Context { get; set; }
         /// <summary>
         /// Gets the NavigationHelper used to aid in navigation and process lifetime management.
@@ -53,7 +55,8 @@ namespace HubApp1
             this.navigationHelper = new NavigationHelper(this);
             this.navigationHelper.LoadState += this.NavigationHelper_LoadState;
         }
-
+      
+       
         /// <summary>
         /// Populates the page with content passed during navigation.  Any saved state is also
         /// provided when recreating a page from a prior session.
@@ -108,6 +111,7 @@ namespace HubApp1
             }
         }
 
+       
         async private void makeConnection()
         {
             try
@@ -117,10 +121,18 @@ namespace HubApp1
                 querystringData.Add("chatversion", "1.1");
 
                 var hubConnection = new HubConnection("http://localhost:53748",querystringData);
+               
+                // Windows authentication.
+                    hubConnection.Credentials = CredentialCache.DefaultCredentials;
+                // Connection Header.
+              //  hubConnection.Headers.Add("myauthtoken", /* token data */);
+                //// Auth(Certificate).
+                //hubConnection.AddClientCertificate(X509Certificate.CreateFromCertFile("MyCert.cer"));
 
                 chat = hubConnection.CreateHubProxy("ChatHub");
                 chatShow.Text = "";
                 Context = SynchronizationContext.Current;
+                
                 chat.On<string, string>("broadcastMessage",
                     (name, message) =>
                         Context.Post(delegate
@@ -128,16 +140,35 @@ namespace HubApp1
                             this.chatShow.Text += name + ": "; this.chatShow.Text += message + "\n";
                         }, null)
                         );
+              
+                chat.Subscribe("notifyWrongVersion").Received += notifyWrongVersion_chat;
+               
+
+                
                 await hubConnection.Start();
                 await chat.Invoke("Notify", chatName.Text, hubConnection.ConnectionId);
-               
+            }
+            catch (HubException ex)
+            {
+
             }
             catch (Exception ex)
             {
 
             }
         }
+    
+        public void notifyWrongVersion()
+        {
 
+        }
+        async void notifyWrongVersion_chat(IList<Newtonsoft.Json.Linq.JToken> obj)
+        {
+            await Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Normal, () =>
+            {
+                notifyWrongVersion();
+            });
+        }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             sendMessage();
@@ -149,8 +180,9 @@ namespace HubApp1
             {
                 await chat.Invoke("Send", chatName.Text, txtMessage.Text);
             }
-            catch (Exception ex)
+            catch (HubException ex)
             {
+
             }
         }
 

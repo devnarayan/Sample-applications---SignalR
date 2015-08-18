@@ -7,80 +7,80 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>bc69bcaf-ada4-4fc1-946a-ad5ba1107ba7</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.exe">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.exe">
       <PackagePath>HubApp1.Windows.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
       <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.Store.dll">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.Store.dll">
       <PackagePath>Microsoft.AspNet.SignalR.Client.Store.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
       <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
       <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\WideLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\Assets\WideLogo.scale-100.png">
       <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Shared\Assets\LightGray.png">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Shared\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Shared\Assets\MediumGray.png">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Shared\Assets\MediumGray.png">
       <PackagePath>Assets\MediumGray.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Shared\Assets\DarkGray.png">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Shared\Assets\DarkGray.png">
       <PackagePath>Assets\DarkGray.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Shared\DataModel\SampleData.json">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Shared\DataModel\SampleData.json">
       <PackagePath>DataModel\SampleData.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubPage.xbf">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubPage.xbf">
       <PackagePath>HubPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\SectionPage.xbf">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\SectionPage.xbf">
       <PackagePath>SectionPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\ItemPage.xbf">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\ItemPage.xbf">
       <PackagePath>ItemPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.xr.xml">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.xr.xml">
       <PackagePath>HubApp1.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Projects\Join8 POS%28SignalR%29\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

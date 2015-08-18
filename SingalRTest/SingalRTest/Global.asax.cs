@@ -14,7 +14,10 @@ namespace SingalRTest
     {
         public void Configuration(IAppBuilder app)
         {
+            GlobalHost.HubPipeline.AddModule(new ErrorHandlingPipelineModule()); 
             app.MapSignalR();
+            // Authentication and Authorization.
+            //GlobalHost.HubPipeline.RequireAuthentication();
         }
     }
     public class Global : System.Web.HttpApplication

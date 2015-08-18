@@ -71,3 +71,5 @@ D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications
 D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.xml
 D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.Security.xml
 D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.csprojResolveAssemblyReference.cache
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\log4net.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\log4net.xml

@@ -1,1 +1,1 @@
-c:\users\admin\documents\visual studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\HubApp1.Windows.csproj;neutral
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\HubApp1.Windows.csproj;neutral

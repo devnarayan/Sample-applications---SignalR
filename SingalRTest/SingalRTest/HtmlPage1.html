@@ -33,10 +33,11 @@
                 chat.server.notify($('#displayname').val(), $.connection.hub.id);
             });
 
-            chat.client.notifyWrongVersion = function () {
-                alert("differnet name");
+            chat.client.notifyWrongVersion = function (name) {
+                alert("different version"+ name);
             };
 
+            chat.state.userName = "devnagar";
             chat.client.differentName = function (name) {
                 // Prompts for different user name
                 $('#displayname').val(prompt('Please enter different username:', ''));
@@ -61,11 +62,19 @@
 
             $('#sendmessage').click(function () {
                 if ($("#users").val() == "All") {
-                    // Call the Send method on the hub. 
-                    chat.server.send($('#displayname').val(), $('#message').val());
+                    // Call the Send method on the hub, with HubException.
+                    chat.server.send($('#displayname').val(), $('#message').val()).fail(function (e) {
+                        if (e.source == "HubException") {
+                            console.log(e.message + ':' + e.data.user);
+                        }
+                    });
                 }
                 else {
-                    chat.server.sendToSpecific($('#displayname').val(), $('#message').val(), $("#users").val());
+                    chat.server.sendToSpecific($('#displayname').val(), $('#message').val(), $("#users").val()).fail(function (e) {
+                        if (e.source == "HubException") {
+                            console.log(e.message + ':' + e.data.user);
+                        }
+                    });
                 }
                 // Clear text box and reset focus for next comment. 
                 $('#message').val('').focus();
