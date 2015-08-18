@@ -1,0 +1,73 @@
+D:\Learning\SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.csprojResolveAssemblyReference.cache
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\SingalRTest.dll
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\SingalRTest.pdb
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Newtonsoft.Json.dll
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Owin.dll
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Learning\SignalR\SingalRTest\SingalRTest\bin\Newtonsoft.Json.xml
+D:\Learning\SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.dll
+D:\Learning\SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.pdb
+I:\SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.csprojResolveAssemblyReference.cache
+I:\SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.dll
+I:\SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.pdb
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\SingalRTest.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\SingalRTest.pdb
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Microsoft.Web.Infrastructure.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Newtonsoft.Json.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Owin.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\bin\Newtonsoft.Json.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\obj\Debug\SingalRTest.csprojResolveAssemblyReference.cache
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\obj\Debug\SingalRTest.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SingalRTest\SingalRTest\obj\Debug\SingalRTest.pdb
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\SingalRTest.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\SingalRTest.pdb
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Microsoft.Web.Infrastructure.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Newtonsoft.Json.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Owin.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\bin\Newtonsoft.Json.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\obj\Debug\SingalRTest.csprojResolveAssemblyReference.cache
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\obj\Debug\SingalRTest.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SingalRTest\SingalRTest\obj\Debug\SingalRTest.pdb
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\SingalRTest.dll.config
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\SingalRTest.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\SingalRTest.pdb
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Newtonsoft.Json.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Owin.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Newtonsoft.Json.xml
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.pdb
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.Security.dll
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.xml
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\bin\Microsoft.Owin.Security.xml
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\SingalRTest\SingalRTest\obj\Debug\SingalRTest.csprojResolveAssemblyReference.cache

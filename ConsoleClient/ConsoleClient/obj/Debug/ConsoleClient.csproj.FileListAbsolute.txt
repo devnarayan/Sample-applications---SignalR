@@ -1,0 +1,30 @@
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\Learning\SignalR\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.pdb
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.pdb
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.pdb
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache

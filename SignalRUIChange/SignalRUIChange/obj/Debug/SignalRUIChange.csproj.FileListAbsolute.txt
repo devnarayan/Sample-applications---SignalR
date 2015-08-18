@@ -1,0 +1,51 @@
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\SignalRUIChange.dll
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\SignalRUIChange.pdb
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Microsoft.Web.Infrastructure.dll
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Newtonsoft.Json.dll
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Owin.dll
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\bin\Newtonsoft.Json.xml
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\obj\Debug\SignalRUIChange.csprojResolveAssemblyReference.cache
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\obj\Debug\SignalRUIChange.dll
+D:\Learning\SignalR\SignalRUIChange\SignalRUIChange\obj\Debug\SignalRUIChange.pdb
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\SignalRUIChange.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\SignalRUIChange.pdb
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Microsoft.Web.Infrastructure.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Newtonsoft.Json.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Owin.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\bin\Newtonsoft.Json.xml
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\obj\Debug\SignalRUIChange.csprojResolveAssemblyReference.cache
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\obj\Debug\SignalRUIChange.dll
+D:\.Net forum\Teck talk 03\Final\Sample application\SignalRUIChange\SignalRUIChange\obj\Debug\SignalRUIChange.pdb
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\SignalRUIChange.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\SignalRUIChange.pdb
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Microsoft.Web.Infrastructure.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Newtonsoft.Json.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Owin.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\bin\Newtonsoft.Json.xml
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\obj\Debug\SignalRUIChange.csprojResolveAssemblyReference.cache
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\obj\Debug\SignalRUIChange.dll
+D:\.Net forum\Teck talk 03\Final\Sample applications\SignalRUIChange\SignalRUIChange\obj\Debug\SignalRUIChange.pdb
